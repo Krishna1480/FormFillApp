@@ -6,7 +6,7 @@
     <br>  
 
     <label for="Name"><b>Email</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    <input type="text" placeholder="Enter Name" name="Name" id="Name" required>
     <br>
 
     <label for="email"><b>Email</b></label>
@@ -19,6 +19,10 @@
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
+    <br>
+
+    <label for="psw-repeat"><b>Aadhar Number</b></label>
+    <input type="password" placeholder="Aadhar Number" Name="Aadhar" id=Aadhar" required>
     <br>
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
